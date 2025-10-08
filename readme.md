@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
+- **Nombre completo**: Mateo Fernando ROdríguez Avilés
+- **Carrera**: Ingenierpia Informática
 - **Fecha de entrega**: _____________________________
 
 ---
